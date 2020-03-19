@@ -1,0 +1,14 @@
+https://firebase.google.com/docs/ml-kit/android/detect-faces
+dependencies {
+  implementation 'com.google.firebase:firebase-ml-vision:24.0.0'
+  // If you want to detect face contours (landmark detection and classification
+  // don't require this additional model):
+  implementation 'com.google.firebase:firebase-ml-vision-face-model:19.0.0'
+}
+apply plugin: 'com.google.gms.google-services'
+
+manifest.xml
+<meta-data
+      android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+      android:value="face" />
+Ãß°¡

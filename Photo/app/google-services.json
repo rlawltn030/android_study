@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121031972618",
+    "firebase_url": "https://jisoo-android.firebaseio.com",
+    "project_id": "jisoo-android",
+    "storage_bucket": "jisoo-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121031972618:android:32ad1d33b7de1e20d70cf3",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121031972618-huol1k2n219av4saakb9ehgb7cev7p80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeKtXAwrddTtFyUDg2nVQsbdk2w7u0p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121031972618-huol1k2n219av4saakb9ehgb7cev7p80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
